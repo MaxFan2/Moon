@@ -2,7 +2,7 @@ unzip daily-anekdot-bot-render.zip
 cd daily-anekdot-bot
 
 git init
-git remote add origin https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/ИМЯ-РЕПО.git
+git remote add origin https://github.com/MaxFan2/Moon.git
 git add .
 git commit -m "Initial commit"
 git branch -M main
